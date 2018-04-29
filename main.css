@@ -1,53 +1,57 @@
-body, html {
-    height: 100%;
+body {
+    margin: 0;
+    font-family: sans-serif;
 }
 
-.bgimg {
-
-    height: 100%;
-    color: #000000;
-    font-family: "Courier New", Courier, monospace;
-    font-size: 25px;
-}
-
-.middle {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+.hcontainer {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
 }
 
-hr {
-    margin: auto;
-    width: 40%;
+.hcontainer h1 {
+    font-size: 5em;
+    margin-top: 0;
+    margin-bottom: 0.5em;
 }
 
-.fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 30px;
-    text-align: center;
+.hcontainer .btn {
+    display: block;
+    width: 200px;
+    padding: 1em;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
     text-decoration: none;
-    border-radius: 50%;
+    font-size: 1.5em;
+    border: 3px solid white;
+    border-radius: 20px;
+    background-color: rgba(147, 112, 219, 0.8);
 }
 
-#header-video {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
-}
+.hcontainer {
 
-.content {
-    position: fixed;
-    background: rgba(0,0,0,0.5);
-    color: #f1f1f1;
-    width: 100%;
-    padding: 15px;
-}
+    /* Sizing */
+    width: 100vw;
+    height: 100vh;
 
-.content, h1 {
-    position: center;
+    /* Flexbox stuff */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* Text styles */
+    text-align: center;
+    color: white;
+
+    /* Background styles */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('assets/bristol2.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
