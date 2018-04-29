@@ -77,3 +77,14 @@ body {
     background: #000000;
     color: white;
 }
+
+.column {
+    float: left;
+    width: 100%;
+}
+
+.row:after {
+    content: '';
+    display: table;
+    clear: both;
+}
