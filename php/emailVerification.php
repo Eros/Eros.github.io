@@ -83,3 +83,11 @@ if(isset($_POST['email'])){
     'Reply to:'.$email_from.'\r\n';
     @mail($email_to, $email_subject, $email_message, $headers);
 }
+
+function test_input($data){
+    $data = trim($data);
+    $data = stripslashes($data);
+    $data = htmlspecialchars($data);
+    return $data;
+}
+
