@@ -7,6 +7,14 @@ body {
     font-family: Helvetica, sans-serif;
 }
 
+h2 {
+    color: #000000;
+}
+
+p {
+  color: #000000;
+}
+
 .timeline {
     position: relative;
     max-width: 1200px;
@@ -116,6 +124,13 @@ body {
     }
 }
 
+.conq-img, img {
+    height: 75%;
+    width: 75%;
+}
+
 ul, li {
     background-color: white;
 }
+
+
