@@ -124,6 +124,11 @@ p {
     }
 }
 
+.conq-img, img {
+    height: 75%;
+    width: 75%;
+}
+
 ul, li {
     background-color: white;
 }
