@@ -1,0 +1,283 @@
+{
+  "classes": {
+    "list": {
+      "HUNTER": {
+        "display": "Hunter",
+        "description": "Use superior archery skills to pelt enemies with arrows.",
+        "type": "HERO",
+        "categories": [
+          "RANGED",
+          "FIGHTER"
+        ],
+        "difficulty": 3.0
+      },
+      "ZOMBIE": {
+        "display": "Zombie",
+        "description": "The Zombie class focuses on defensive gameplay and healing.",
+        "type": "NORMAL",
+        "categories": [
+          "TANK",
+          "SUPPORT"
+        ],
+        "difficulty": 2.0
+      },
+      "CREEPER": {
+        "display": "Creeper",
+        "description": "The Creeper class uses explosion based powers to win.",
+        "type": "NORMAL",
+        "categories": [
+          "DAMAGE",
+          "CONTROL"
+        ],
+        "difficulty": 4.0
+      },
+      "ARCANIST": {
+        "display": "Arcanist",
+        "description": "PLACEHOLDER",
+        "type": "HERO",
+        "categories": [
+          "FIGHTER",
+          "DAMAGE"
+        ],
+        "difficulty": 1.0
+      },
+      "SHAMAN": {
+        "display": "Shaman",
+        "description": "PLACEHOLDER",
+        "type": "HERO",
+        "categories": [
+          "FIGHTER",
+          "CONTROL"
+        ],
+        "difficulty": 3.0
+      },
+      "DREADLORD": {
+        "display": "Dreadlord",
+        "description": "PLACEHOLDER",
+        "type": "HERO",
+        "categories": [
+          "RUSHER",
+          "FIGHTER"
+        ],
+        "difficulty": 1.0
+      },
+      "GOLEM": {
+        "display": "Golem",
+        "description": "PLACEHOLDER",
+        "type": "HERO",
+        "categories": [
+          "TANK",
+          "FIGHTER"
+        ],
+        "difficulty": 2.0
+      },
+      "SQUID": {
+        "display": "Squid",
+        "description": "Splashing around, like a Squid, because thats what Squids do. Splash.",
+        "type": "NORMAL",
+        "categories": [
+          "TANK",
+          "CONTROL"
+        ],
+        "difficulty": 1.0
+      },
+      "MOLEMAN": {
+        "display": "Moleman",
+        "description": "Wanna play wacka mole...?",
+        "type": "MYTHIC",
+        "categories": [
+          "MOBILITY",
+          "CONTROL"
+        ],
+        "difficulty": 2.0
+      },
+      "ENDERMAN": {
+        "display": "Enderman",
+        "description": "The Enderman class has special teleportation powers and endurance.",
+        "type": "NORMAL",
+        "categories": [
+          "MOBILITY",
+          "RUSHER"
+        ],
+        "difficulty": 2.0
+      },
+      "HEROBRINE": {
+        "display": "Herobrine",
+        "description": "The Herobrine class uses supernatural abilities to attack and destroy your enemies.",
+        "type": "NORMAL",
+        "categories": [
+          "FIGHTER",
+          "DAMAGE"
+        ],
+        "difficulty": 1.0
+      },
+      "BLAZE": {
+        "display": "Blaze",
+        "description": "The Blaze class uses the spirit of fire to enfore flames.",
+        "type": "HERO",
+        "categories": [
+          "RANGED",
+          "CONTROL"
+        ],
+        "difficulty": 2.0
+      },
+      "PIGMAN": {
+        "display": "Pigman",
+        "description": "Half man, half pig, half..oh wait! Feel the power of pork!",
+        "type": "HERO",
+        "categories": [
+          "FIGHTER",
+          "SUPPORT"
+        ],
+        "difficulty": 2.0
+      },
+      "SPIDER": {
+        "display": "Spider",
+        "description": "The Spider class uses agile paths for combat.",
+        "type": "NORMAL",
+        "categories": [
+          "MOBILITY",
+          "RUSHER"
+        ],
+        "difficulty": 3.0
+      },
+      "WEREWOLF": {
+        "display": "Werewolf",
+        "description": "It's always full moon for this brawler.. Slice and dice your way to victory!",
+        "type": "MYTHIC",
+        "categories": [
+          "TANK",
+          "FIGHTER"
+        ],
+        "difficulty": 2.0
+      },
+      "PIRATE": {
+        "display": "Pirate",
+        "description": "Use cunning and wit to survive, or blow enemies up with parrots.",
+        "type": "HERO",
+        "categories": [
+          "FIGHTER",
+          "DAMAGE"
+        ],
+        "difficulty": 3.0
+      },
+      "PHOENIX": {
+        "display": "Phoenix",
+        "description": "Born from the ashes of my predecessor I shall erase you from existence!",
+        "type": "MYTHIC",
+        "categories": [
+          "RANGED",
+          "SUPPORT"
+        ],
+        "difficulty": 4.0
+      },
+      "SKELETON": {
+        "display": "Skeleton",
+        "description": "The Skeleton class makes excellent use of ranged abilities and weapons.",
+        "type": "NORMAL",
+        "categories": [
+          "RANGED",
+          "MOBILITY"
+        ],
+        "difficulty": 3.0
+      },
+      "ASSASSIN": {
+        "display": "Assassin",
+        "description": "",
+        "type": "MYTHIC",
+        "categories": [
+          "DAMAGE",
+          "RUSHER"
+        ],
+        "difficulty": 2.0
+      },
+      "RENEGADE": {
+        "display": "Renegade",
+        "description": "",
+        "type": "MYTHIC",
+        "categories": [
+          "MOBILITY",
+          "RANGED"
+        ],
+        "difficulty": 3.0
+      },
+      "SNOWMAN": {
+        "display": "Snowman",
+        "description": "",
+        "type": "MYTHIC",
+        "categories": [
+          "CONTROL",
+          "FIGHTER"
+        ],
+        "difficulty": 3.0
+      },
+      "AUTOMATON": {
+        "display": "Automaton",
+        "description": "",
+        "type": "MYTHIC",
+        "categories": [
+          "CONTROL",
+          "TANK"
+        ],
+        "difficulty": 4.0
+      },
+      "COW": {
+        "display": "Cow",
+        "description": "",
+        "type": "NORMAL",
+        "categories": [
+          "TANK",
+          "SUPPORT"
+        ],
+        "difficulty": 2.0
+      },
+      "SHARK": {
+        "display": "Shark",
+        "description": "",
+        "type": "NORMAL",
+        "categories": [
+          "DAMAGE",
+          "CONTROL"
+        ],
+        "difficulty": 1.0
+      }
+    },
+    "fields": {
+      "Skill": "classes.%class%.skill_level_a",
+      "Passive 1": "classes.%class%.skill_level_b",
+      "Passive 2": "classes.%class%.skill_level_c",
+      "Kit": "classes.%class%.skill_level_d",
+      "Gathering": "classes.%class%.skill_level_g",
+      "Prestige": "classes.%class%.prestige",
+      "Enderchest": "classes.%class%.enderchest_rows"
+    }
+  },
+  "modes": {
+    "list": {
+      "STANDARD": {
+        "display": "Normal",
+        "partyMax": 4,
+        "playersMax": 100,
+        "teamMax": 25
+      },
+      "FACE_OFF": {
+        "display": "Faceoff Mode",
+        "partyMax": 20,
+        "playersMax": 40,
+        "teamMax": 20
+      },
+      "PRACTICE": {
+        "display": "Practice Mode",
+        "partyMax": 2,
+        "playersMax": 100,
+        "teamMax": 25
+      },
+      "GVG": {
+        "display": "Casual Brawl",
+        "partyMax": 0,
+        "playersMax": 24,
+        "teamMax": 10
+      }
+    }
+  }
+}

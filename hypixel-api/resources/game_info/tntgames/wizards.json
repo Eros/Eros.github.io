@@ -1,0 +1,21 @@
+{
+  "classes": {
+    "list": {
+      "firewizard": {
+        "display": "Fire"
+      },
+      "kineticwizard": {
+        "display": "Kinetic"
+      },
+      "icewizard": {
+        "display": "Ice"
+      },
+      "witherwizard": {
+        "display": "Wither"
+      },
+      "bloodwizard": {
+        "display": "Blood"
+      }
+    }
+  }
+}
