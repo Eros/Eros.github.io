@@ -74,7 +74,7 @@ abstract class CacheHandler extends Module {
 
     /**
      * Returns the currently set cache time
-     * @param $for
+     * @param $for .
      * @return int
      */
     public function getCacheTime($for) {
