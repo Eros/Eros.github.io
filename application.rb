@@ -16,7 +16,7 @@ module Application
     STDERR.puts "Searching for servers"
     sleep 5
     service.stop
-    servers.each { |string, obj| name, port = string.split ":" STDERR.puts "Found application with the name '#{name}'"}
+    servers.each { |string, obj| name, port = string.split ":"; STDERR.puts "Found application with the name '#{name}'"}
   end
 
   def self.find(name, first = nil)
@@ -37,5 +37,43 @@ module Application
     sleep 5
     service.stop
     hosts
+  end
+
+  def self.open(name)
+    host = find(name, true).to_a[0]
+    unless host
+      STDERR.puts "Cannot find application with the name '#{name}'"
+
+      if port.is_a?(Symbol)
+        port = guess_port(port)
+        should_sleep = false
+      else
+        port = port.to_i
+      end
+
+      tr = DNSSD::TextRecord.new
+      tr["description"] = "An app."
+
+      DNSSD.register(name, SERVICE, "local", port.to_i, tr.encode) do |reply|
+        STDERR.puts "Announcing #{name}..."
+      end
+
+      sleep if should_sleep
+    end
+
+    def self.guess_port(kind)
+
+      # guess mongrel
+      if defined?(Mongrel)
+        ObjectSpace.each_object do |o|
+          return o.port if o.is_a?(Mongrel::HttpServer)
+        end
+      end
+
+
+      case kind
+      when :mongrel
+      end
+    end
   end
 end
