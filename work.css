@@ -3,7 +3,11 @@
 }
 
 body {
-    background-color: #474e5d;
+    background: url("assets/work.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     font-family: Helvetica, sans-serif;
 }
 
