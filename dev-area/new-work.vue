@@ -138,5 +138,32 @@
 </script>
 
 <style scoped>
+    body {
+        background-color: #FEFEFE;
+    }
+    .card {
+        height: 140px;
+        background-color: white;
+        padding: 5px;
+        margin-bottom: 10px;
+        font-family: Helvetica;
+        box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.5);
+    }
 
+    .card__image {
+        display: inline-block;
+        margin-right: 10px;
+    }
+
+    .card__content {
+        display: inline-block;
+        position: relative;
+        vertical-align: top;
+        width: calc(100% - 120px);
+        height: 140px;
+    }
+
+    .card__content h3 {
+        margin: 0;
+    }
 </style>
