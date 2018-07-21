@@ -1,5 +1,4 @@
 <template>
-    <body>
     <div class="card"
          v-for="(card, index) in styledCards"
          :style="card.style"
@@ -10,7 +9,6 @@
             <p>{{card.description}}</p>
         </div>
     </div>
-    </body>
 </template>
 
 <script>
