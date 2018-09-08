@@ -3,7 +3,7 @@
 }
 
 body {
-    background: url("assets/work.jpg");
+    background: url("assets/images/work.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -16,7 +16,7 @@ h2 {
 }
 
 p {
-  color: #000000;
+    color: #000000;
 }
 
 .timeline {
@@ -132,9 +132,3 @@ p {
     height: 75%;
     width: 75%;
 }
-
-ul, li {
-    background-color: white;
-}
-
-
