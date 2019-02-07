@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8d82cca-9ab2-4378-8ba6-c431a727b43a" name="Default" comment="">
+    <list default="true" id="e8d82cca-9ab2-4378-8ba6-c431a727b43a" name="Default" comment="remove the work pages, not required.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -19,17 +19,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="140" column="20" selection-start-line="140" selection-start-column="20" selection-end-line="140" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/work.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1190">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
+            <state relative-caret-position="708">
+              <caret line="194" column="140" selection-start-line="194" selection-start-column="140" selection-end-line="194" selection-end-column="140" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#3;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,6 +130,11 @@
               <item name="Eros.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Eros.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Eros.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Eros.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -224,28 +226,7 @@
       <workItem from="1532175725992" duration="4000" />
       <workItem from="1533075378974" duration="174000" />
       <workItem from="1533833465167" duration="297000" />
-      <workItem from="1549573493782" duration="1180000" />
-    </task>
-    <task id="LOCAL-00007" summary="(:">
-      <created>1516109779380</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1516109779380</updated>
-    </task>
-    <task id="LOCAL-00008" summary="(:">
-      <created>1516110369783</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1516110369783</updated>
-    </task>
-    <task id="LOCAL-00009" summary="(:">
-      <created>1516110676175</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1516110676175</updated>
+      <workItem from="1549573493782" duration="2452000" />
     </task>
     <task id="LOCAL-00010" summary="(:">
       <created>1516110745146</created>
@@ -569,11 +550,32 @@
       <option name="project" value="LOCAL" />
       <updated>1533833525774</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="change a ton of stuff around">
+      <created>1549574779314</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1549574779314</updated>
+    </task>
+    <task id="LOCAL-00057" summary="the last work one was terrible">
+      <created>1549575686158</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1549575686158</updated>
+    </task>
+    <task id="LOCAL-00058" summary="remove the work pages, not required.">
+      <created>1549575711931</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1549575711931</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55550000" />
+    <option name="totallyTimeSpent" value="56822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -628,9 +630,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.rb" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="that already looks 1000 better than the original" />
-    <MESSAGE value="should be good now" />
-    <MESSAGE value="adds in some decent social media buttons" />
     <MESSAGE value="okay lets put this onto the main site for now" />
     <MESSAGE value="okay that kinda breaks a lot more than i hope it would" />
     <MESSAGE value="testing something" />
@@ -653,7 +652,10 @@
     <MESSAGE value="moves it all over to vue" />
     <MESSAGE value="IS THAT BECAUSE OF IT????" />
     <MESSAGE value="adds in the dev.to button to the main page" />
-    <option name="LAST_COMMIT_MESSAGE" value="adds in the dev.to button to the main page" />
+    <MESSAGE value="change a ton of stuff around" />
+    <MESSAGE value="the last work one was terrible" />
+    <MESSAGE value="remove the work pages, not required." />
+    <option name="LAST_COMMIT_MESSAGE" value="remove the work pages, not required." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cd.css" />
@@ -681,13 +683,6 @@
     <entry file="file://$PROJECT_DIR$/contact.css" />
     <entry file="file://$PROJECT_DIR$/contact.html" />
     <entry file="file://$PROJECT_DIR$/main.js" />
-    <entry file="file://$PROJECT_DIR$/work.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.css" />
     <entry file="file://$PROJECT_DIR$/maintenance.html" />
     <entry file="file://$PROJECT_DIR$/application.rb" />
@@ -702,10 +697,13 @@
     <entry file="file://$PROJECT_DIR$/dev-area/new-work.html" />
     <entry file="file://$PROJECT_DIR$/php/emailVerification.php" />
     <entry file="file://$PROJECT_DIR$/dev-area/new-work.vue" />
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/work-main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="140" column="20" selection-start-line="140" selection-start-column="20" selection-end-line="140" selection-end-column="20" />
+        <state relative-caret-position="17">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -713,6 +711,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1190">
           <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="194" column="140" selection-start-line="194" selection-start-column="140" selection-end-line="194" selection-end-column="140" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#3;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
