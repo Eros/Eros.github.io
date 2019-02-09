@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8d82cca-9ab2-4378-8ba6-c431a727b43a" name="Default" comment="okay that will do for now, much much better!">
+    <list default="true" id="e8d82cca-9ab2-4378-8ba6-c431a727b43a" name="Default" comment="update that to give a bit more information">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="195" column="28" selection-start-line="195" selection-start-column="28" selection-end-line="195" selection-end-column="28" />
+            <state relative-caret-position="45">
+              <caret line="209" column="26" lean-forward="true" selection-start-line="209" selection-start-column="26" selection-end-line="209" selection-end-column="26" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -121,7 +121,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,6 +143,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,20 +232,7 @@
       <workItem from="1533075378974" duration="174000" />
       <workItem from="1533833465167" duration="297000" />
       <workItem from="1549573493782" duration="2765000" />
-    </task>
-    <task id="LOCAL-00011" summary="ready to go">
-      <created>1516110778330</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1516110778330</updated>
-    </task>
-    <task id="LOCAL-00012" summary="ready to go">
-      <created>1516110867375</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1516110867375</updated>
+      <workItem from="1549670048043" duration="334000" />
     </task>
     <task id="LOCAL-00013" summary="(:">
       <created>1516129262696</created>
@@ -576,11 +563,25 @@
       <option name="project" value="LOCAL" />
       <updated>1549576110900</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="updating the more info area">
+      <created>1549670085861</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1549670085862</updated>
+    </task>
+    <task id="LOCAL-00061" summary="update that to give a bit more information">
+      <created>1549670277093</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1549670277093</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57135000" />
+    <option name="totallyTimeSpent" value="57469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -635,8 +636,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.rb" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="okay that kinda breaks a lot more than i hope it would" />
-    <MESSAGE value="testing something" />
     <MESSAGE value="yep still hate php" />
     <MESSAGE value="my php really does suck" />
     <MESSAGE value="just gonna put that in from my other project" />
@@ -660,7 +659,9 @@
     <MESSAGE value="the last work one was terrible" />
     <MESSAGE value="remove the work pages, not required." />
     <MESSAGE value="okay that will do for now, much much better!" />
-    <option name="LAST_COMMIT_MESSAGE" value="okay that will do for now, much much better!" />
+    <MESSAGE value="updating the more info area" />
+    <MESSAGE value="update that to give a bit more information" />
+    <option name="LAST_COMMIT_MESSAGE" value="update that to give a bit more information" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cd.css" />
@@ -702,27 +703,13 @@
     <entry file="file://$PROJECT_DIR$/dev-area/new-work.html" />
     <entry file="file://$PROJECT_DIR$/php/emailVerification.php" />
     <entry file="file://$PROJECT_DIR$/dev-area/new-work.vue" />
-    <entry file="file://$PROJECT_DIR$/work-main.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/work-main.css" />
+    <entry file="file://$PROJECT_DIR$/work.css" />
+    <entry file="file://$PROJECT_DIR$/work.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="195" column="28" selection-start-line="195" selection-start-column="28" selection-end-line="195" selection-end-column="28" />
+        <state relative-caret-position="45">
+          <caret line="209" column="26" lean-forward="true" selection-start-line="209" selection-start-column="26" selection-end-line="209" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
