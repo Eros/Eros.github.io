@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8d82cca-9ab2-4378-8ba6-c431a727b43a" name="Default" comment="update that to give a bit more information">
+    <list default="true" id="e8d82cca-9ab2-4378-8ba6-c431a727b43a" name="Default" comment="update that a little bit to?">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="209" column="26" lean-forward="true" selection-start-line="209" selection-start-column="26" selection-end-line="209" selection-end-column="26" />
+            <state relative-caret-position="487">
+              <caret line="253" column="183" selection-start-line="253" selection-start-column="183" selection-end-line="253" selection-end-column="183" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -232,28 +233,7 @@
       <workItem from="1533075378974" duration="174000" />
       <workItem from="1533833465167" duration="297000" />
       <workItem from="1549573493782" duration="2765000" />
-      <workItem from="1549670048043" duration="334000" />
-    </task>
-    <task id="LOCAL-00013" summary="(:">
-      <created>1516129262696</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1516129262696</updated>
-    </task>
-    <task id="LOCAL-00014" summary="(:">
-      <created>1516129478470</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1516129478470</updated>
-    </task>
-    <task id="LOCAL-00015" summary="added that thing">
-      <created>1516141247301</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1516141247301</updated>
+      <workItem from="1549670048043" duration="831000" />
     </task>
     <task id="LOCAL-00016" summary="(:">
       <created>1516221384361</created>
@@ -577,11 +557,32 @@
       <option name="project" value="LOCAL" />
       <updated>1549670277093</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="update the contact page">
+      <created>1549670423492</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1549670423492</updated>
+    </task>
+    <task id="LOCAL-00063" summary="might as well put that in there also">
+      <created>1549670450836</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1549670450836</updated>
+    </task>
+    <task id="LOCAL-00064" summary="update that a little bit to?">
+      <created>1549670478358</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1549670478358</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57469000" />
+    <option name="totallyTimeSpent" value="57966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -636,9 +637,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.rb" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="yep still hate php" />
-    <MESSAGE value="my php really does suck" />
-    <MESSAGE value="just gonna put that in from my other project" />
     <MESSAGE value="testing github fix" />
     <MESSAGE value="no one needs to be proud about being fluent in windows" />
     <MESSAGE value="fixes the work page nav not working" />
@@ -661,7 +659,10 @@
     <MESSAGE value="okay that will do for now, much much better!" />
     <MESSAGE value="updating the more info area" />
     <MESSAGE value="update that to give a bit more information" />
-    <option name="LAST_COMMIT_MESSAGE" value="update that to give a bit more information" />
+    <MESSAGE value="update the contact page" />
+    <MESSAGE value="might as well put that in there also" />
+    <MESSAGE value="update that a little bit to?" />
+    <option name="LAST_COMMIT_MESSAGE" value="update that a little bit to?" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cd.css" />
@@ -708,8 +709,8 @@
     <entry file="file://$PROJECT_DIR$/work.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="209" column="26" lean-forward="true" selection-start-line="209" selection-start-column="26" selection-end-line="209" selection-end-column="26" />
+        <state relative-caret-position="487">
+          <caret line="253" column="183" selection-start-line="253" selection-start-column="183" selection-end-line="253" selection-end-column="183" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
