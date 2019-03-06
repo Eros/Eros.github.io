@@ -115,12 +115,12 @@ a:hover,a:active,a:focus{
 //  02 - Header 
 /////////////////////////////////////////////////////////////////////*/
 
-header{
-	background: url(../images/bg.jpg) no-repeat;
-	background-size: cover;
-	background-attachment: fixed;
-	background-position: 50% -50px;
-}
+/*header{*/
+	/*background: url(../images/bg.jpg) no-repeat;*/
+	/*background-size: cover;*/
+	/*background-attachment: fixed;*/
+	/*background-position: 50% -50px;*/
+/*}*/
 .center {
     text-align: center;
     color: #fff;
