@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600,300);
+
 /*
 Theme Name: Dark Joe
 Theme URI: http://themewagon.com/demo/DarkJoe/
@@ -88,7 +90,6 @@ a:hover,a:active,a:focus{
     margin-right: -42%;
 }
 
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:600,300);
 * {
     margin: 0;
     padding: 0;
