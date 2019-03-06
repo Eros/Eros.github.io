@@ -163,23 +163,3 @@ function scroll() {
 });
 
 
-  ///////////////////////////////
-  // google map
-  ///////////////////////////////
-
-function initialize()
-{
-var mapProp = {
-  center:new google.maps.LatLng(51.4545,2.5879),
-  zoom:5,
-  mapTypeId:google.maps.MapTypeId.ROADMAP,
-  disableDefaultUI: true,
-  scrollwheel: false
-  };
-var map=new google.maps.Map(document.getElementById("googleMap")
-  ,mapProp);
-}
-
-google.maps.event.addDomListener(window, 'load', initialize);
-
-
