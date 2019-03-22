@@ -78,9 +78,9 @@
         <option value="JavaScript File" />
         <option value="SCSS File" />
         <option value="Ruby Class Template" />
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="Vue Single File Component" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
