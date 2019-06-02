@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8d82cca-9ab2-4378-8ba6-c431a727b43a" name="Default" comment="uh git hello?">
-      <change afterPath="$PROJECT_DIR$/slackauth.html" afterDir="false" />
+    <list default="true" id="e8d82cca-9ab2-4378-8ba6-c431a727b43a" name="Default" comment="update to include the actual url">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="2431">
               <caret line="143" selection-start-line="143" selection-end-line="143" />
               <folding>
                 <element signature="n#style#0;n#img#3;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -31,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/slackauth.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="204">
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -182,9 +181,10 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="F:/PHP/Laravel" />
+    <property name="last_opened_file_path" value="F:/Python/CommBot-Discord" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
@@ -268,21 +268,8 @@
       <workItem from="1549670048043" duration="831000" />
       <workItem from="1551901914188" duration="2391000" />
       <workItem from="1552079282065" duration="23000" />
-      <workItem from="1553268170311" duration="249000" />
-    </task>
-    <task id="LOCAL-00023" summary="ok">
-      <created>1517239192642</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1517239192642</updated>
-    </task>
-    <task id="LOCAL-00024" summary="that fixes that and shuts webstorm the fuck up">
-      <created>1517239264325</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1517239264325</updated>
+      <workItem from="1553268170311" duration="1280000" />
+      <workItem from="1553543740269" duration="11000" />
     </task>
     <task id="LOCAL-00025" summary="reconfigures web audio listening">
       <created>1517240392406</created>
@@ -613,15 +600,28 @@
       <option name="project" value="LOCAL" />
       <updated>1551904160649</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="add in this just for now">
+      <created>1553268481920</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1553268481921</updated>
+    </task>
+    <task id="LOCAL-00073" summary="update to include the actual url">
+      <created>1553268647216</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1553268647216</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60629000" />
+    <option name="totallyTimeSpent" value="61671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2613277" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -635,7 +635,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32827735" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -672,8 +672,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.rb" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="adding in back end application" />
-    <MESSAGE value="finishes that shit" />
     <MESSAGE value="forgot to add in the other redirects" />
     <MESSAGE value="adds in that shit" />
     <MESSAGE value="get this lil boi working, hopefulkly" />
@@ -697,7 +695,9 @@
     <MESSAGE value="fixes what i fucked up" />
     <MESSAGE value="it's better than what it was" />
     <MESSAGE value="uh git hello?" />
-    <option name="LAST_COMMIT_MESSAGE" value="uh git hello?" />
+    <MESSAGE value="add in this just for now" />
+    <MESSAGE value="update to include the actual url" />
+    <option name="LAST_COMMIT_MESSAGE" value="update to include the actual url" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cd.css" />
@@ -752,7 +752,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="2431">
           <caret line="143" selection-start-line="143" selection-end-line="143" />
           <folding>
             <element signature="n#style#0;n#img#3;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -785,8 +785,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/slackauth.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
