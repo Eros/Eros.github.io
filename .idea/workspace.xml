@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8d82cca-9ab2-4378-8ba6-c431a727b43a" name="Default" comment="update to include the actual url">
+    <list default="true" id="e8d82cca-9ab2-4378-8ba6-c431a727b43a" name="Default" comment="update some things to remove the crap">
+      <change afterPath="$PROJECT_DIR$/assets/css/noscript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/portfolio-main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-extra.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2431">
-              <caret line="143" selection-start-line="143" selection-end-line="143" />
+            <state relative-caret-position="484">
+              <caret line="239" column="26" selection-start-line="239" selection-start-column="26" selection-end-line="239" selection-end-column="26" />
               <folding>
                 <element signature="n#style#0;n#img#3;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -28,12 +32,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/slackauth.html">
+        <entry file="file://$PROJECT_DIR$/portfolio-extra.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="-340">
+              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/portfolio-main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="864">
+              <caret line="2591" column="35" selection-start-line="2591" selection-start-column="35" selection-end-line="2591" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/noscript.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -77,9 +95,9 @@
         <option value="JavaScript File" />
         <option value="SCSS File" />
         <option value="Ruby Class Template" />
-        <option value="CSS File" />
         <option value="Vue Single File Component" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -146,17 +164,20 @@
         <option value="$PROJECT_DIR$/dev-area/new-work.vue" />
         <option value="$PROJECT_DIR$/assets/js/script.js" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/slackauth.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/portfolio-main.css" />
+        <option value="$PROJECT_DIR$/portfolio-extra.html" />
+        <option value="$PROJECT_DIR$/assets/css/noscript.css" />
       </list>
     </option>
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="441" />
-    <option name="y" value="208" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -171,6 +192,11 @@
               <item name="Eros.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Eros.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Eros.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Eros.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -184,7 +210,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="F:/Python/CommBot-Discord" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../overflow" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
@@ -270,20 +296,7 @@
       <workItem from="1552079282065" duration="23000" />
       <workItem from="1553268170311" duration="1280000" />
       <workItem from="1553543740269" duration="11000" />
-    </task>
-    <task id="LOCAL-00025" summary="reconfigures web audio listening">
-      <created>1517240392406</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1517240392406</updated>
-    </task>
-    <task id="LOCAL-00026" summary="adds actual listening support to the site">
-      <created>1517240839724</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1517240839724</updated>
+      <workItem from="1559489489190" duration="552000" />
     </task>
     <task id="LOCAL-00027" summary="fucking reddis">
       <created>1517241650028</created>
@@ -614,14 +627,29 @@
       <option name="project" value="LOCAL" />
       <updated>1553268647216</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="remove slack auth page">
+      <created>1559489509470</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1559489509471</updated>
+    </task>
+    <task id="LOCAL-00075" summary="update some things to remove the crap">
+      <created>1559489566050</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1559489566050</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61671000" />
+    <option name="totallyTimeSpent" value="62223000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2613277" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -672,8 +700,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.rb" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="forgot to add in the other redirects" />
-    <MESSAGE value="adds in that shit" />
     <MESSAGE value="get this lil boi working, hopefulkly" />
     <MESSAGE value="think the style can just go into there for now" />
     <MESSAGE value="moves it all over to vue" />
@@ -697,12 +723,11 @@
     <MESSAGE value="uh git hello?" />
     <MESSAGE value="add in this just for now" />
     <MESSAGE value="update to include the actual url" />
-    <option name="LAST_COMMIT_MESSAGE" value="update to include the actual url" />
+    <MESSAGE value="remove slack auth page" />
+    <MESSAGE value="update some things to remove the crap" />
+    <option name="LAST_COMMIT_MESSAGE" value="update some things to remove the crap" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cd.css" />
-    <entry file="file://$PROJECT_DIR$/cd.js" />
-    <entry file="file://$PROJECT_DIR$/jquery.countdown.css" />
     <entry file="file://$PROJECT_DIR$/jquery.countdown.min.js" />
     <entry file="file://$PROJECT_DIR$/countdown.css" />
     <entry file="file://$PROJECT_DIR$/jquery.countdown.js" />
@@ -750,16 +775,6 @@
     <entry file="file://$PROJECT_DIR$/assets/images/bg.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2431">
-          <caret line="143" selection-start-line="143" selection-end-line="143" />
-          <folding>
-            <element signature="n#style#0;n#img#3;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -787,6 +802,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="239" column="26" selection-start-line="239" selection-start-column="26" selection-end-line="239" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#img#3;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/portfolio-main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="2591" column="35" selection-start-line="2591" selection-start-column="35" selection-end-line="2591" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/noscript.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio-extra.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
