@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8d82cca-9ab2-4378-8ba6-c431a727b43a" name="Default" comment="update some things to remove the crap">
-      <change afterPath="$PROJECT_DIR$/assets/css/noscript.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/portfolio-main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio-extra.html" afterDir="false" />
+    <list default="true" id="e8d82cca-9ab2-4378-8ba6-c431a727b43a" name="Default" comment="might as well include conquest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-extra.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-extra.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portfolio-extra.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-340">
-              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            <state relative-caret-position="527">
+              <caret line="40" column="63" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -167,8 +164,8 @@
         <option value="$PROJECT_DIR$/slackauth.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/portfolio-main.css" />
-        <option value="$PROJECT_DIR$/portfolio-extra.html" />
         <option value="$PROJECT_DIR$/assets/css/noscript.css" />
+        <option value="$PROJECT_DIR$/portfolio-extra.html" />
       </list>
     </option>
   </component>
@@ -296,28 +293,7 @@
       <workItem from="1552079282065" duration="23000" />
       <workItem from="1553268170311" duration="1280000" />
       <workItem from="1553543740269" duration="11000" />
-      <workItem from="1559489489190" duration="552000" />
-    </task>
-    <task id="LOCAL-00027" summary="fucking reddis">
-      <created>1517241650028</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1517241650028</updated>
-    </task>
-    <task id="LOCAL-00028" summary="fuck it that should work fine">
-      <created>1517242111683</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1517242111683</updated>
-    </task>
-    <task id="LOCAL-00029" summary="fixes some of the positioning">
-      <created>1524852121459</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1524852121459</updated>
+      <workItem from="1559489489190" duration="1331000" />
     </task>
     <task id="LOCAL-00030" summary="should fix some of the shit being broken">
       <created>1525004805079</created>
@@ -641,11 +617,32 @@
       <option name="project" value="LOCAL" />
       <updated>1559489566050</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="add the extra portfolio page">
+      <created>1559490070032</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1559490070032</updated>
+    </task>
+    <task id="LOCAL-00077" summary="might as well include that">
+      <created>1559490495863</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1559490495864</updated>
+    </task>
+    <task id="LOCAL-00078" summary="might as well include conquest">
+      <created>1559490516147</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1559490516147</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62223000" />
+    <option name="totallyTimeSpent" value="63002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -700,9 +697,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.rb" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="get this lil boi working, hopefulkly" />
-    <MESSAGE value="think the style can just go into there for now" />
-    <MESSAGE value="moves it all over to vue" />
     <MESSAGE value="IS THAT BECAUSE OF IT????" />
     <MESSAGE value="adds in the dev.to button to the main page" />
     <MESSAGE value="change a ton of stuff around" />
@@ -725,7 +719,10 @@
     <MESSAGE value="update to include the actual url" />
     <MESSAGE value="remove slack auth page" />
     <MESSAGE value="update some things to remove the crap" />
-    <option name="LAST_COMMIT_MESSAGE" value="update some things to remove the crap" />
+    <MESSAGE value="add the extra portfolio page" />
+    <MESSAGE value="might as well include that" />
+    <MESSAGE value="might as well include conquest" />
+    <option name="LAST_COMMIT_MESSAGE" value="might as well include conquest" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/jquery.countdown.min.js" />
@@ -827,8 +824,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio-extra.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-340">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        <state relative-caret-position="527">
+          <caret line="40" column="63" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
         </state>
       </provider>
     </entry>
