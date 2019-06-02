@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8d82cca-9ab2-4378-8ba6-c431a727b43a" name="Default" comment="might as well include conquest">
+    <list default="true" id="e8d82cca-9ab2-4378-8ba6-c431a727b43a" name="Default" comment="handle some more of the things">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio-extra.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-extra.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,23 +17,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="239" column="26" selection-start-line="239" selection-start-column="26" selection-end-line="239" selection-end-column="26" />
+            <state relative-caret-position="351">
+              <caret line="238" column="68" selection-start-line="238" selection-start-column="68" selection-end-line="238" selection-end-column="68" />
               <folding>
                 <element signature="n#style#0;n#img#3;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio-extra.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="40" column="63" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
+            <state relative-caret-position="501">
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#article#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#article#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#article#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#article#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -162,10 +170,10 @@
         <option value="$PROJECT_DIR$/assets/js/script.js" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/slackauth.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/portfolio-main.css" />
         <option value="$PROJECT_DIR$/assets/css/noscript.css" />
         <option value="$PROJECT_DIR$/portfolio-extra.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -293,21 +301,7 @@
       <workItem from="1552079282065" duration="23000" />
       <workItem from="1553268170311" duration="1280000" />
       <workItem from="1553543740269" duration="11000" />
-      <workItem from="1559489489190" duration="1331000" />
-    </task>
-    <task id="LOCAL-00030" summary="should fix some of the shit being broken">
-      <created>1525004805079</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1525004805079</updated>
-    </task>
-    <task id="LOCAL-00031" summary="that already looks 1000 better than the original">
-      <created>1525013048145</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1525013048145</updated>
+      <workItem from="1559489489190" duration="3037000" />
     </task>
     <task id="LOCAL-00032" summary="should be good now">
       <created>1525013434784</created>
@@ -638,11 +632,25 @@
       <option name="project" value="LOCAL" />
       <updated>1559490516147</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="ill have to fix that later">
+      <created>1559490941994</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1559490941994</updated>
+    </task>
+    <task id="LOCAL-00080" summary="handle some more of the things">
+      <created>1559491997493</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1559491997493</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63002000" />
+    <option name="totallyTimeSpent" value="64708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -697,8 +705,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.rb" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="IS THAT BECAUSE OF IT????" />
-    <MESSAGE value="adds in the dev.to button to the main page" />
     <MESSAGE value="change a ton of stuff around" />
     <MESSAGE value="the last work one was terrible" />
     <MESSAGE value="remove the work pages, not required." />
@@ -722,7 +728,9 @@
     <MESSAGE value="add the extra portfolio page" />
     <MESSAGE value="might as well include that" />
     <MESSAGE value="might as well include conquest" />
-    <option name="LAST_COMMIT_MESSAGE" value="might as well include conquest" />
+    <MESSAGE value="ill have to fix that later" />
+    <MESSAGE value="handle some more of the things" />
+    <option name="LAST_COMMIT_MESSAGE" value="handle some more of the things" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/jquery.countdown.min.js" />
@@ -802,16 +810,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="239" column="26" selection-start-line="239" selection-start-column="26" selection-end-line="239" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#img#3;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/portfolio-main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
@@ -824,8 +822,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio-extra.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="40" column="63" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
+        <state relative-caret-position="501">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#article#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#article#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#article#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#article#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="238" column="68" selection-start-line="238" selection-start-column="68" selection-end-line="238" selection-end-column="68" />
+          <folding>
+            <element signature="n#style#0;n#img#3;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
