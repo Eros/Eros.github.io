@@ -2,182 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8d82cca-9ab2-4378-8ba6-c431a727b43a" name="Default" comment="remove that because it's redundant">
-      <change afterPath="$PROJECT_DIR$/images/hypixel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/notion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/betsy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/heartbeat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/watson.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/noscript.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/owl.carousel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/owl.theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/portfolio-main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/font_icon/css/helper.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/font_icon/css/pe-icon-7-stroke.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/font_icon/fonts/Pe-icon-7-stroke.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/font_icon/fonts/Pe-icon-7-stroke.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/font_icon/fonts/Pe-icon-7-stroke.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/font_icon/fonts/Pe-icon-7-stroke.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/W_2014_365.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/bg-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/conquest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/devto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/google maps.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/google-plus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/hypixel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/insult.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/linkedin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/parallax.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/portfolio1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/portfolio2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/portfolio3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/portfolio4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/portfolio5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/portfolio6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/testimonial.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/testimonial2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/testimonial3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/twitter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/uwe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/wordpress.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/work.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery-2.1.3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.actual.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/modernizr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/owl.carousel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/smooth-scroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css-circle/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css-circle/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css-circle/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css-circle/css/circle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css-circle/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css-circle/less/circle.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css-circle/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/applypatch-msg.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/commit-msg.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/post-update.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/pre-applypatch.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/pre-commit.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/pre-push.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/pre-rebase.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/prepare-commit-msg.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/update.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/atom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/betsy.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/catnip.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/watson.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info/exclude" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/HEAD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/refs/heads/master" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/refs/remotes/origin/HEAD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/04/3ce0024831b1192ce94f38fe14739bed1705d7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/05/14f4379f8d1d282acc55d0abb9e9eaea50ebea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/0b/06a6c9c11901563733441e58eb26abb6a35993" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/0b/3ddeffe8e7a33158aaaf83ec09a278605ab640" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/0b/6f56cf0397693e3fafba1dc959c46fb9f09248" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/10/013d42899cb328f1b910433168ec53dfb0c240" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/10/354be4fa8f5e58f3804dc15a577e3216821373" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/14/9596ded88b7ff0d47b2bc39406137390d793e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/15/177ac81232621b1452f5e9a4448289ef19d7c5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/1f/51a3a1151b516a669223ced2600c972375bf6d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/20/dd3e986af9c337116f43f6f2bc2642f2781fa0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/22/fbe5dbacbe58748f688cac277d917aebb467b4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/24/95d3b86d6c40248e01d16021d1983e206f749c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/25/f775e43cc9d7cb8e1dcb112e2028d6a568d15d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/27/98756576013b2b16384569257dab4f5b5a4d6d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/2c/02356ea555b2ce53b787c02f5fedb2adf2e20e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/33/48ec184c300faf522ca6156da72c983d189b55" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/36/e58e0788e5065f0fe30391b1700aa4c4db63bf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/37/6974ff95625a5d1230087eb011d85b496170f1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/38/0c902a75078f4f13d46c9beefcd7835a0de701" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/3d/c88c25026f4aecdcb39f12e2013de0087b0759" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/3f/b52f87555be0be80c07148823f01e83860a826" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/41/7717fdcdbaa2596343e2d377ad74122c669f8f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/45/a2835802e767fc8977ff0932e9d7974dddb318" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/48/031b9573b3ae59d8fd7c6f0b27e3efd012fa17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/4a/9d3637d651d507a4c90a0bbb4afac232f98771" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/4c/0e6da3ebfae66268f27a116d69ca76a0a99494" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/4d/5635b5ee72ae4a88f0d7038540085917cdf5bd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/4e/3c17c3fcbdaa1afb50644fa1faac66c71f2a80" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/53/99b98e6eeb6414238d7c77488527f892df0428" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/56/a5794f1633f68b1800486fc885c2f2bde99269" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/5b/d109796ee59af5b8013000010c405047dbbd95" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/5c/76231f2e1955028dc2647243d1e9ec1c03a62e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/6c/6cd589ccabec7e518230592318eb27f7c610cd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/6e/eaaddc345ddbbf8e058c06d19a6a72fa1a93bd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/70/bb4b7961fd30db370544d1c98aab34c5322a73" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/72/da677511a2b11c0f09a16dfcd250a3d89e8c2a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/73/e0f050fd0e1661069c05690bc297dcbecf0ea5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/75/f4f9e119c85d965d56a160eaa943adb0513b68" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/77/5d914be2ee574831e2aab103ad3d4080f8c2f2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/7b/733e5f2d9db19c9cc06358850f2fa00c931f3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/7d/20abf23b3e756f34753731379c07b745248808" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/83/88ef61b2c3d039bebc23cc5330228310c420db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/84/76dddf74aad334d081ad59c0b4f1ba791dccc2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/89/480f413bf9f2a2010b9663c3009357facd9a76" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/8a/619c7c65a35af78cfa5b7af18b2d7adadf715d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/8e/3bf586c6eb1b7bdb8dbee4c691e0ec72027ad3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/91/22950699032f87e56bc4a3ea7c406d9f11a5ca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/93/0906f90ca7287553d0f290693b734f0f5f8d30" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/95/9d2ed12cac822597944887c1c5a484c99cc8c7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/96/0e66a8795df95616129c50e7071eefa802b2e8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/97/7297530614e94ad06ec6d893b9873c3f0d231d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/97/c80e1aa7c1fa43043387747af07216091f7c5d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/98/6851394b693eab39e7bd359dd205331ee58ee2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/99/c5cc44657dcb90c7efcdaa3d3c00e0cd17cc8a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/9a/ea91c7d4e08d8e0b42f7d93c76bc95eff63467" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/9c/dee80a0108420503d250227b32e2d3240464a4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/9c/e72e790b9e8401edb6756bcb63b341d22410fb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/a5/d9ac1fd3486471da6dc901df2bf2687fcae116" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/a6/8c9db5c1ad3b00a267a2a94318320ada7ea381" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/a8/7bbdcd05db85e8ecf97ac43609c96919f40183" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/ab/1fe4784837ef7ce406f1c25c2d957bf98db091" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/ad/468cd94d15fba578dc0d891f6b659cc82ba6dc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/b4/e94a1c2c96ad59342a24f253a31ba8bf24f05d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/b4/fbf51f86a54667c7f0de657a39706e7d243b51" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/b6/6c608dc2250baa0af6fda1aaa22972f6f9e420" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/bd/2e6181eb8ea40c9eaafd1a3ef17ba3792c74c7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/c0/e3deb49ddf224576f47b6f323ddfa19e41ddb0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/c2/320a0a3eb09eb03278fb85dfc28329d46b06a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/c4/a935bf285635cf12680c9511023c8550abe2c7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/c6/fa989377d4fd3ab9ea7fdd76e4bd10c0230848" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/c8/bfcfbd02b031189c23fee163a6be3d6516fabc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/cb/3f183459f7ebe78aafdea46e88c4e6ac75df9e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/ce/3adf4a0e0b76d304baa5a6d67b8934301a027e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/ce/8ceb7e35340b1384a4d501e92e8159400e5ef3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/cf/68b1f35fa9430a3bd42916fef716e8a9fa2041" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/d7/a11f7c430ab0fe14c66b9016aaa41d5b137c5a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/d8/25536288a891cb5a21d3399696d5e05ba63a77" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/d9/2838d9880f367eaf4837e66c0f002744bbc2fd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/da/cbff9c28d591dedba62a0384151aa23436b1d5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/dc/f51f359be4d1b9180d6242357c2f30ec6b7a2b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/de/27a4eb2e3b4dc813dc4492bd94002964ec3a83" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/de/cc1d054cf1fb7432fd5ac053c54943ae0b525a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/e1/770d7d0d63d485060e0d670a78fb30c9ab12ee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/ea/9af634e558c0f45457febef8e0aa612db1d68a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/ea/dbe35bf9277b4e7bbe23dcfb7c0b0246fa9c85" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/ec/f65577f4ef3062355e6549b99cd2ed0b4b7b40" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/ed/c56b198ffe01bbd500f3419f85a0c025e5dd97" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/ef/4b50e719235fcfebf8e49212c5e66f64e3dc72" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/f4/9745c2763736dd64459c979bd7466143ea3de3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/f6/4b149b68628dff820adbb8cbbf753d37c7510b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/fd/6cb3ed1e59f43562b4296b3aa34ab259717772" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/fe/10a7588f9357800388040931c8bd9fa0c96efd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packed-refs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-extra.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/refs/heads/master" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/refs/remotes/origin/HEAD" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -304,7 +133,7 @@
       <workItem from="1559489489190" duration="3389000" />
       <workItem from="1572099804691" duration="442000" />
       <workItem from="1574009558169" duration="33000" />
-      <workItem from="1585313965637" duration="3173000" />
+      <workItem from="1585313965637" duration="4005000" />
     </task>
     <task id="LOCAL-00037" summary="yep still hate php">
       <created>1525523994215</created>
