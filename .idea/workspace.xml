@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e8d82cca-9ab2-4378-8ba6-c431a727b43a" name="Default" comment="remove that because it's redundant">
       <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +130,7 @@
       <workItem from="1559489489190" duration="3389000" />
       <workItem from="1572099804691" duration="442000" />
       <workItem from="1574009558169" duration="33000" />
-      <workItem from="1585313965637" duration="4445000" />
+      <workItem from="1585313965637" duration="4716000" />
     </task>
     <task id="LOCAL-00037" summary="yep still hate php">
       <created>1525523994215</created>
